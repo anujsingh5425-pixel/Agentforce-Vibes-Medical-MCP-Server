@@ -1,0 +1,406 @@
+GENERAL HEALTH
+
+Q1: I have fever and headache. What should I do
+A: This is usually a mild viral infection. Take rest, drink plenty of fluids, and you may take Paracetamol 500mg. If it continues for more than 2 to 3 days, consult Dr. Neha Singh General Physician
+
+Q2: I feel weakness and fatigue. Is it serious
+A: It may be due to low energy or vitamin deficiency. Improve your diet and hydration. If it continues, consult Dr. Neha Singh General Physician or Dr. Priya Menon Dietician
+
+Q3: I have a common cold and cough. What should I do
+A: This is usually a viral infection. Take steam, warm fluids, and Cetirizine 10mg if needed. If symptoms worsen, consult Dr. Karan Malhotra ENT Specialist
+
+HEART CARDIOLOGY
+
+Q4: I have chest pain and sweating. What should I do
+A: This could be a serious heart issue. Seek immediate medical help. Consult Dr. Anita Verma Cardiologist or Dr. Rajesh Gupta Cardiologist
+
+Q5: My blood pressure is high. Which medicine should I take
+A: Medicines like Amlodipine 5mg or Lisinopril are used, but only under doctor supervision. Consult Dr. Lakshmi Iyer Cardiologist
+
+NEUROLOGY BRAIN
+
+Q6: I have migraine and dizziness. What should I do
+A: This may be migraine. Avoid stress and triggers. Sumatriptan 50mg may help with doctor advice. Consult Dr. Sameer Sharma Neurologist
+
+Q7: I get frequent headaches. Should I worry
+A: If headaches are frequent, it may need evaluation. Consult Dr. Sameer Sharma Neurologist
+
+ORTHOPEDIC BONES
+
+Q8: I have back pain and joint pain. What should I do
+A: You can take Ibuprofen 400mg for temporary relief. For long term care, consult Dr. Arjun Mehta Orthopedic or Dr. Manish Agarwal Physiotherapist
+
+DERMATOLOGY SKIN
+
+Q9: I have skin rash and itching. What should I do
+A: You can take Cetirizine 10mg and apply hydrocortisone cream. If severe, consult Dr. Vikram Kapoor Dermatologist
+
+Q10: I have acne. Which doctor should I consult
+A: Acne is treated by a dermatologist. Consult Dr. Vikram Kapoor Dermatologist
+
+PEDIATRIC CHILD HEALTH
+
+Q11: My child has fever. What should I do
+A: You can give Paracetamol syrup as per dosage. Consult Dr. Rohit Bansal Pediatrician
+
+GYNECOLOGY WOMEN HEALTH
+
+Q12: I have irregular periods. What should I do
+A: This may be a hormonal issue. Consult Dr. Pooja Khanna Gynecologist
+
+PULMONOLOGY LUNGS
+
+Q13: I have breathing difficulty. What should I do
+A: This could be a lung issue. Use inhalers if prescribed. Consult Dr. Nikhil Arora Pulmonologist
+
+GASTROENTEROLOGY DIGESTION
+
+Q14: I have acidity and stomach pain. What should I do
+A: You can take antacids or Pantoprazole. Consult Dr. Amitabh Das Gastroenterologist if it continues
+
+ENDOCRINOLOGY DIABETES AND HORMONES
+
+Q15: My sugar level is high. What should I do
+A: Medicines like Metformin 500mg are used. Diet control is important. Consult Dr. Sneha Nair Endocrinologist
+
+Q16: I have thyroid issues. What should I do
+A: Levothyroxine 50mcg is commonly prescribed. Consult Dr. Sneha Nair Endocrinologist
+
+MENTAL HEALTH
+
+Q17: I feel anxiety and stress. What should I do
+A: Practice relaxation techniques. If severe, consult Dr. Ritu Saxena Psychiatrist
+
+OPHTHALMOLOGY EYES
+
+Q18: I have blurry vision. What should I do
+A: Avoid screen strain and use eye drops if needed. Consult Dr. Kavita Joshi Ophthalmologist
+
+UROLOGY
+
+Q19: I have urine related issues. What should I do
+A: This may be a urinary infection. Consult Dr. Suresh Reddy Urologist
+
+ONCOLOGY
+
+Q20: I feel unusual lumps or long term symptoms. What should I do
+A: Do not ignore. Consult Dr. Meenakshi Pillai Oncologist immediately
+
+RADIOLOGY
+
+Q21: I need an X ray or scan. Who should I consult
+A: Consult Dr. Harsh Vardhan Radiologist for imaging tests
+
+NEPHROLOGY KIDNEY
+
+Q22: I have kidney related issues. What should I do
+A: Consult Dr. Deepak Chauhan Nephrologist for proper diagnosis
+
+SURGERY
+
+Q23: I need surgery consultation. Who should I contact
+A: Consult Dr. Alok Tiwari Surgeon
+
+DIET AND FITNESS
+
+Q24: I want a diet plan. Who should I consult
+A: Consult Dr. Priya Menon Dietician
+
+PHYSIOTHERAPY
+
+Q25: I need physical therapy. Who should I consult
+A: Consult Dr. Manish Agarwal Physiotherapist
+
+EMERGENCY
+
+Q26: What are emergency symptoms
+A: Severe chest pain, unconsciousness, heavy bleeding, or breathing failure. Immediately go to the nearest hospital
+
+Q27: Which medicine is used for fever and mild pain
+A: Paracetamol 500mg is used to reduce fever and relieve mild pain
+
+Q28: Which medicine is used for cold and allergy
+A: Cetirizine 10mg is used to reduce allergy symptoms
+
+Patient Q and A Medicine Guide
+
+Q1: Which medicine is used for fever and mild pain
+A: Paracetamol 500mg is used to reduce fever and relieve mild body pain
+
+Q2: Which medicine is used for cold and allergy
+A: Cetirizine 10mg is used to reduce sneezing, runny nose, and allergic reactions
+
+Q3: Which medicine is used for dry cough
+A: Dextromethorphan syrup is used to suppress dry cough
+
+Q4: Which medicine is used for wet cough
+A: Ambroxol helps loosen mucus and makes it easier to cough out
+
+Q5: Which medicine is used for acidity
+A: Pantoprazole reduces excess stomach acid and provides relief from acidity
+
+Q6: Which medicine is used for gas problem
+A: Simethicone helps reduce bloating and gas discomfort
+
+Q7: Which medicine is used for bacterial infection
+A: Amoxicillin is an antibiotic used to treat bacterial infections
+
+Q8: Which medicine is used for severe infection
+A: Azithromycin is used for moderate to severe bacterial infections
+
+Q9: Which medicine is used for high blood pressure
+A: Amlodipine helps relax blood vessels and control blood pressure
+
+Q10: Which medicine is used for heart patients
+A: Aspirin 75mg helps prevent blood clots and protects the heart
+
+Q11: Which medicine is used for diabetes
+A: Metformin 500mg helps control blood sugar levels
+
+Q12: Which medicine is used for thyroid problem
+A: Levothyroxine replaces low thyroid hormone levels
+
+Q13: Which medicine is used for migraine
+A: Sumatriptan is used to relieve migraine attacks
+
+Q14: Which medicine is used for anxiety
+A: Alprazolam is used to reduce anxiety under medical supervision
+
+Q15: Which medicine is used for depression
+A: Sertraline helps improve mood and treat depression
+
+Q16: Which medicine is used for skin allergy
+A: Hydrocortisone cream reduces itching and skin inflammation
+
+Q17: Which medicine is used for acne
+A: Clindamycin gel helps reduce acne-causing bacteria
+
+Q18: Which medicine is used for fungal infection
+A: Fluconazole treats fungal infections
+
+Q19: Which medicine is used for pain relief
+A: Ibuprofen reduces pain and inflammation
+
+Q20: Which medicine is used for strong pain
+A: Diclofenac is used for severe pain and swelling
+
+Q21: Which medicine is used for nausea
+A: Ondansetron prevents vomiting and nausea
+
+Q22: Which medicine is used for loose motion
+A: Loperamide helps control diarrhea
+
+Q23: Which medicine is used for constipation
+A: Lactulose softens stool and helps bowel movement
+
+Q24: Which medicine is used for vitamin deficiency
+A: Multivitamin tablets help improve overall nutrition
+
+Q25: Which medicine is used for iron deficiency
+A: Ferrous sulfate increases iron levels in the body
+
+Q26: Which medicine is used for calcium deficiency
+A: Calcium carbonate strengthens bones
+
+Q27: Which medicine is used for joint pain
+A: Aceclofenac reduces joint pain and inflammation
+
+Q28: Which medicine is used for muscle pain
+A: Thiocolchicoside relaxes muscles
+
+Q29: Which medicine is used for asthma
+A: Salbutamol inhaler opens airways and helps breathing
+
+Q30: Which medicine is used for breathing issues
+A: Budesonide inhaler reduces lung inflammation
+
+Q31: Which medicine is used for high cholesterol
+A: Atorvastatin lowers bad cholesterol
+
+Q32: Which medicine is used for heart rhythm
+A: Propranolol helps control heart rate
+
+Q33: Which medicine is used for kidney infection
+A: Ciprofloxacin treats urinary and kidney infections
+
+Q34: Which medicine is used for urinary infection
+A: Nitrofurantoin treats urinary tract infections
+
+Q35: Which medicine is used for eye infection
+A: Moxifloxacin eye drops treat bacterial eye infection
+
+Q36: Which medicine is used for ear infection
+A: Ofloxacin ear drops treat ear infections
+
+Q37: Which medicine is used for throat pain
+A: Lozenges help soothe throat irritation
+
+Q38: Which medicine is used for sinus problem
+A: Pseudoephedrine reduces nasal congestion
+
+Q39: Which medicine is used for allergy swelling
+A: Loratadine reduces allergic swelling
+
+Q40: Which medicine is used for severe allergy
+A: Prednisolone reduces severe inflammation
+
+Q41: Which medicine is used for gastric ulcer
+A: Omeprazole heals ulcers and reduces acid
+
+Q42: Which medicine is used for stomach infection
+A: Metronidazole treats stomach infections
+
+Q43: Which medicine is used for liver protection
+A: Ursodeoxycholic acid supports liver function
+
+Q44: Which medicine is used for vomiting
+A: Domperidone helps control vomiting
+
+Q45: Which medicine is used for fever in children
+A: Paracetamol syrup reduces fever safely in kids
+
+Q46: Which medicine is used for cough in children
+A: Ambroxol syrup helps clear mucus
+
+Q47: Which medicine is used for skin infection
+A: Mupirocin ointment treats bacterial skin infection
+
+Q48: Which medicine is used for dandruff
+A: Ketoconazole shampoo treats fungal scalp infection
+
+Q49: Which medicine is used for hair fall
+A: Minoxidil helps promote hair growth
+
+Q50: Which medicine is used for piles
+A: Hydrocortisone cream reduces swelling and itching
+
+Q51: Which medicine is used for diabetes control
+A: Glimepiride helps lower blood sugar
+
+Q52: Which medicine is used for BP control long term
+A: Telmisartan helps manage blood pressure
+
+Q53: Which medicine is used for heart failure
+A: Furosemide removes excess fluid from the body
+
+Q54: Which medicine is used for swelling
+A: Spironolactone reduces fluid retention
+
+Q55: Which medicine is used for nerve pain
+A: Gabapentin reduces nerve-related pain
+
+Q56: Which medicine is used for epilepsy
+A: Sodium valproate controls seizures
+
+Q57: Which medicine is used for insomnia
+A: Zolpidem helps improve sleep
+
+Q58: Which medicine is used for stress
+A: Clonazepam reduces stress under supervision
+
+Q59: Which medicine is used for throat infection
+A: Amoxicillin clavulanate treats bacterial throat infection
+
+Q60: Which medicine is used for severe pain
+A: Tramadol is used for strong pain relief
+
+Q61: Which medicine is used for dehydration
+A: ORS restores fluids and electrolytes
+
+Q62: Which medicine is used for instant acidity relief
+A: Antacids like Digene give quick relief
+
+Q63: Which medicine is used for cough relief
+A: Antitussive syrups help reduce cough
+
+Q64: Which medicine is used for muscle spasm
+A: Chlorzoxazone relaxes muscles
+
+Q65: Which medicine is used for fever with body pain
+A: Combination medicines like ibuprofen plus paracetamol are used
+
+Q66: Which medicine is used for blood thinning
+A: Clopidogrel prevents clot formation
+
+Q67: Which medicine is used for thyroid overactivity
+A: Carbimazole reduces thyroid hormone production
+
+Q68: Which medicine is used for fungal skin
+A: Clotrimazole cream treats fungal infection
+
+Q69: Which medicine is used for itching
+A: Calamine lotion soothes skin irritation
+
+Q70: Which medicine is used for cough with mucus
+A: Bromhexine helps break down mucus
+
+Q71: Which medicine is used for immunity
+A: Vitamin C supports immune system
+
+Q72: Which medicine is used for bone strength
+A: Vitamin D3 improves bone health
+
+Q73: Which medicine is used for nerve weakness
+A: Methylcobalamin supports nerve health
+
+Q74: Which medicine is used for stomach cramps
+A: Dicycloverine relieves abdominal cramps
+
+Q75: Which medicine is used for migraine prevention
+A: Topiramate helps reduce migraine frequency
+
+Q76: Which medicine is used for anxiety control
+A: Escitalopram improves mood and reduces anxiety
+
+Q77: Which medicine is used for depression severe
+A: Fluoxetine helps treat major depression
+
+Q78: Which medicine is used for panic attack
+A: Diazepam calms the nervous system
+
+Q79: Which medicine is used for wound healing
+A: Betadine ointment prevents infection
+
+Q80: Which medicine is used for infection prevention
+A: Tetanus injection prevents tetanus infection
+
+Q81: Which medicine is used for low blood pressure
+A: Midodrine helps increase blood pressure
+
+Q82: Which medicine is used for nausea in pregnancy
+A: Doxylamine helps reduce pregnancy nausea
+
+Q83: Which medicine is used for calcium boost
+A: Calcium citrate supports bone strength
+
+Q84: Which medicine is used for liver health
+A: Silymarin supports liver recovery
+
+Q85: Which medicine is used for kidney stones
+A: Potassium citrate helps prevent stone formation
+
+Q86: Which medicine is used for uric acid
+A: Allopurinol reduces uric acid levels
+
+Q87: Which medicine is used for arthritis
+A: Methotrexate reduces inflammation in joints
+
+Q88: Which medicine is used for severe infection
+A: Cefixime is a strong antibiotic
+
+Q89: Which medicine is used for strong antibiotic use
+A: Ceftriaxone is used in serious infections
+
+Q90: Which medicine is used for viral infection
+A: Acyclovir treats viral infections like herpes
+
+Q91: Which medicine is used for HIV
+A: Antiretroviral therapy controls virus replication
+
+Q92: Which medicine is used for cancer
+A: Chemotherapy drugs are used depending on cancer type
+
+Q93: Which medicine is used for general health
+A: Multivitamins improve overall health
+
+
